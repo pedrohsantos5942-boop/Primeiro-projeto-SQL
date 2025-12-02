@@ -1,6 +1,6 @@
 # Projeto SQL – Loja Online de Eletrônicos
 
-Scripts SQL da Atividade 4 contendo criação, inserção, consultas, updates e deletes.
+Scripts SQL contendo criação, inserção, consultas, updates e deletes.
 
 ## Execução:
 1. Execute 01_create_tables.sql
@@ -8,4 +8,4 @@ Scripts SQL da Atividade 4 contendo criação, inserção, consultas, updates e 
 3. Utilize os arquivos 03, 04 e 05 conforme necessidade.
 
 ## Autor:
-Aluno
+Pedro Henrique dos Santos 
